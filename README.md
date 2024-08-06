@@ -1,6 +1,6 @@
-# TryHackMe-Jr-Penetratior-Tester (in progress)
+# TryHackMe Jr Penetration Tester (in progress)
 
-[TryHackMe SOC Level 1 Course Link](https://tryhackme.com/path/outline/jrpenetrationtester)
+[TryHackMe Jr Penetration Tester Course Link](https://tryhackme.com/path/outline/jrpenetrationtester)
 
 <h2>Objectives</h2>
 
